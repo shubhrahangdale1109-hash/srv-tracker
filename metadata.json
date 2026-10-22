@@ -1,0 +1,6 @@
+{
+  "name": "SRV Tracker",
+  "description": "SRV Tracker - A vibrant, easy-to-use personal life and healthcare manager for tracking daily activity, tasks, routines, sleep, body profile, and health records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
